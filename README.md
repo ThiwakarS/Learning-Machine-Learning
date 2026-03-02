@@ -10,3 +10,14 @@ Topics covered:
   - elastic net
   - polynomial regression
   - polynomial regression with elastic net
+  - support vector regression
+
+- Classification:
+  - logistic regression
+  - K nearest neighbours
+  - naive bayes classification
+  - decision trees
+  - random forest
+  - adaboost
+  - gradient boost
+  - xgboost 
