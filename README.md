@@ -11,6 +11,7 @@ Topics covered:
   - polynomial regression
   - polynomial regression with elastic net
   - support vector regression
+  - lightgbm regression
 
 - Classification:
   - logistic regression
@@ -21,3 +22,4 @@ Topics covered:
   - adaboost
   - gradient boost
   - xgboost 
+  - lightgbm
